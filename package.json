@@ -1,0 +1,14 @@
+{
+  "name": "unittest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Abhishek Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  }
+}
